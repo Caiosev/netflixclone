@@ -90,3 +90,9 @@
     font-size:20px;
     color: #999;
 }
+
+@media (max-width:760){
+    .featured{
+        height:10vh;
+    }
+}
